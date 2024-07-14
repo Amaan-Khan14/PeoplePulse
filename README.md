@@ -1,4 +1,4 @@
-## Contact Management CRUD API
+## PeoplePulse
 
 This project is a CRUD (Create, Read, Update, Delete) API for managing contacts. Users can register, log in, and perform CRUD operations using an HTTP client. Data is stored in a MongoDB database.
 
